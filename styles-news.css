@@ -1,0 +1,60 @@
+
+
+/*-------------------nav bar css-----------------------------*/
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Ensures content stays within the nav */
+  background-color: #333;
+}
+
+nav li {
+  float: left; /* Makes list items display horizontally */
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+nav li a:hover {
+  background-color: #111;
+}
+
+
+
+
+/*-------------------Section 1 News page -----------------------------*/
+
+
+
+.header{
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.clipse-picture{
+    height: 600px;
+    width: 700px;
+}
+
+body{
+    background-color: #1c1c1d;
+    color: aliceblue;
+    text-align: center;
+}
+
+.event-date{
+    font-size: 20px;
+}
+
+p{
+    text-align: left;
+}
